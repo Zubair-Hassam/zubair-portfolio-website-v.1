@@ -29,6 +29,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 Upon analysing the website you will find that the layout is such that the text boxes are enclosed with grey background that does NOT reach the ends of the page. This is intentional by design. 
 
 There are also stylised buttons to make the experiance more animated to use.
+
+With regards to the links on the header, when hovering over them, they should change in apperance to let you know that it has been highlighted. When clicking on the link, you will then be directed to the area to the page where that heading refers to.
+
 # Screenshot of website 
 Image 01
 

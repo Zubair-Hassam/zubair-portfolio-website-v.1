@@ -18,21 +18,19 @@ body{
     text-align: center;
 }
 
-.heading-link{
-    text-emphasis-color: white;
-    font-size: large;
-}
-
 .links{
     display: inline-block;
     text-align: center;
+    font-size: large;
 }
 
+.links a:hover{
+    background-color: #3e8e41;
+}
 .information{
     background-color: grey;
     color: white;
 }
-
 
 .selfie{
     background-color: grey;
@@ -40,7 +38,6 @@ body{
     height: 200px;
     object-fit: cover;
 }
-
 
 .network{
     background-color: grey;
