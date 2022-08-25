@@ -1,0 +1,81 @@
+*{
+    font-family: monospace;
+    line-height: 1.5;
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    background-color: white;
+}
+
+.header{
+    background-color: white;
+}
+
+.information{
+    background-color: grey;
+    color: white;
+}
+
+.heading-link{
+    text-emphasis-color: white;
+    position: relative; left:84%;
+    font-size: large;
+}
+
+.selfie{
+    background-color: grey;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.network{
+    background-color: grey;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.phone{
+
+    background-color: grey;
+    width:  200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.biography{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.work{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.message{
+    background-color: white;
+    color: black;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.social-link{
+    color: red;
+}
+
+
+.footer-text{
+    font-size: x-large;
+    text-align: center;
+}
