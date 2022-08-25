@@ -2,7 +2,7 @@
     font-family: monospace;
     line-height: 1.5;
     margin: 0%;
-    padding: 0%;
+    padding: 1%;
 }
 
 body{
@@ -14,6 +14,18 @@ body{
 
 .header{
     background-color: white;
+    margin-top: -40px;
+    text-align: center;
+}
+
+.heading-link{
+    text-emphasis-color: white;
+    font-size: large;
+}
+
+.links{
+    display: inline-block;
+    text-align: center;
 }
 
 .information{
@@ -21,11 +33,6 @@ body{
     color: white;
 }
 
-.heading-link{
-    text-emphasis-color: white;
-    position: relative; left:84%;
-    font-size: large;
-}
 
 .selfie{
     background-color: grey;
@@ -33,6 +40,7 @@ body{
     height: 200px;
     object-fit: cover;
 }
+
 
 .network{
     background-color: grey;
@@ -54,6 +62,7 @@ body{
     color: black;
     display: inline-block;
     vertical-align: top;
+    flex-wrap: wrap;
 }
 
 .work{
@@ -70,10 +79,24 @@ body{
     vertical-align: top;
 }
 
-.social-link{
-    color: red;
+ul{
+    list-style-type: square;
 }
 
+.social-link{
+    padding: 10px 20px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color:red;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+.social-link:hover {background-color: #3e8e41}
 
 .footer-text{
     font-size: x-large;
