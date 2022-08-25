@@ -33,8 +33,10 @@ There are also stylised buttons to make the experiance more animated to use.
 With regards to the links on the header, when hovering over them, they should change in apperance to let you know that it has been highlighted. When clicking on the link, you will then be directed to the area to the page where that heading refers to.
 
 # Screenshot of website 
-Image 01
+![Screenshot of website 1](./Assets/images/sc_1.png)
+![Screenshot of website 2](./Assets/images/sc_2.png)
+![Screenshot of website 3](./Assets/images/sc_3.png)
 
 # Links
-Github Project Folder: 
-Website URL: 
+Github Project Folder [GitHub Pages](https://github.com/Zubair-Hassam/zubair-portfolio-website-v.1).
+Website URL [URL]()
