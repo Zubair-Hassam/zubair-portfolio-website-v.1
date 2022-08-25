@@ -38,5 +38,5 @@ With regards to the links on the header, when hovering over them, they should ch
 ![Screenshot of website 3](./Assets/images/sc_3.png)
 
 # Links
-Github Project Folder [GitHub Pages](https://github.com/Zubair-Hassam/zubair-portfolio-website-v.1).
-Website URL [URL](https://zubair-hassam.github.io/zubair-portfolio-website-v.1/)
+[GitHub Website](https://github.com/Zubair-Hassam/zubair-portfolio-website-v.1).
+[Deployed Website URL](https://zubair-hassam.github.io/zubair-portfolio-website-v.1/)
